@@ -132,11 +132,11 @@ footer p {
 	padding: 0;
 }
 #nav_menu ul li{
-	display: inline-block;
+	float: left;
 }
 #nav_menu ul li a{
 	display: block;
-	width: 156px;
+	width: 160px;
 	text-align: center;
 	padding-top: 1em;
 	padding-bottom: 1em;
