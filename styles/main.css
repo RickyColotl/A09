@@ -124,3 +124,12 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
+#nav_menu ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#nav_menu ul li{
+	float: left;
+}
