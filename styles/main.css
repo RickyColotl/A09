@@ -131,5 +131,20 @@ footer p {
 	padding: 0;
 }
 #nav_menu ul li{
-	float: left;
+	display: inline-block;
+}
+#nav_menu ul li a{
+	display: block;
+	width: 156px;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-decoration: none;
+	background-color: #800000;
+	color: white;
+	font-weight: bold;
+}
+
+.current{
+	color: yellow;
 }
